@@ -1,7 +1,7 @@
 Shiny App: Distributions
 ========================================================
 author: Pankaj Goyal
-date: Sat Jul 26 19:25:37 2014
+date: Sun Jul 27 11:16:23 2014
 transition: rotate
 
 Description
@@ -37,7 +37,7 @@ summary(data)
 
 ```
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
--1.8300 -0.8660  0.1250 -0.0349  0.6340  1.8400 
+ -2.990  -0.713   0.158   0.125   0.977   2.570 
 ```
 
 Contd..
